@@ -1,3 +1,4 @@
 thsi is the sample file for git examples
 thsi is going to be second commit of this file 
 
+new to the file
